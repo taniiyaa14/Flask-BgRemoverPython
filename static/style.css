@@ -1,0 +1,27 @@
+#bdy{
+    background-color: #dfdfdf;
+}
+h1{
+    padding-top:20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+#sub{
+    padding:5px;
+    opacity:0.8;
+    font-size:20px;
+}
+.img{
+    font-weight: 600;
+    font-size:25px ;
+    padding:06px;
+}
+#imageUpload{
+    width:60%;
+}
+.box{
+    height:100%;
+    width:100%;
+    border:1px solid black;
+    border-radius: 10px;
+}
